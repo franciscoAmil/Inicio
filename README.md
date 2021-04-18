@@ -1,6 +1,7 @@
 <html>
   <head>
              <title>Programación web </title>
+             <link rel="stylesheet" href="estilos.css">
   </head>
      <body>
       <img src="tecnm.png">
