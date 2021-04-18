@@ -25,7 +25,7 @@
                       <label for="btn-menu">☰</label>
                     </div>
                       <div class="logo">
-                        <h1>Menu</h1>
+                        <h1></h1>
                       </div>
                       
                     </div>
