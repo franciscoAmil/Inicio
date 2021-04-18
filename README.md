@@ -19,6 +19,34 @@
                    <h2>ING. EN  SISTEMAS COMPUTACIONALES</h2>
                    <h3><i>PROGRAMACIÓN WEB</i></h3>
               </center>
+               <header class="header">
+                    <div class="container">
+                    <div class="btn-menu">
+                      <label for="btn-menu">☰</label>
+                    </div>
+                      <div class="logo">
+                        <h1>Menu</h1>
+                      </div>
+                      
+                    </div>
+                  </header>
+                  <div class="capa"></div>
+             
+                <input type="checkbox" id="btn-menu">
+                <div class="container-menu">
+                  <div class="cont-menu">
+                    <nav>
+                      <a href="#">whatsApp</a>
+                      <a href="#">Contactos</a>
+                      <a href="#">Twiter</a>
+                      <a href="#">Facebook</a>
+                      <a href="#">Youtube</a>
+                      <a href="#">Instagram</a>
+                    </nav>
+                    <label for="btn-menu">✖️</label>
+                  </div>
+                </div>
+              
               <hr>
                <h2>Bienvenidos a mi primera pagina web</h2>
               <p>Saludos.</p> 
